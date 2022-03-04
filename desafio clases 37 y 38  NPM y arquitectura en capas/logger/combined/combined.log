@@ -1,0 +1,250 @@
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"error","message":"Error: ReferenceError: controladorCarrito is not defined"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /comprar? Method: GET"}
+{"level":"info","message":"Route: /carrito?info=compra Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /comprar? Method: GET"}
+{"level":"info","message":"Route: /carrito?info=compra Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /comprar? Method: GET"}
+{"level":"info","message":"Route: /carrito?info=compra Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /comprar? Method: GET"}
+{"level":"info","message":"Route: /carrito?info=compra Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /imagenes/20170728_144058.jpg no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /imagenes/20170728_144058.jpg no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /imagenes/20170728_144058.jpg no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /imagenes/20170728_144058.jpg no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /registro Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /productos Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: /api/carrito/product Method: POST"}
+{"level":"info","message":"Route: / Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /carrito Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /comprar? Method: GET"}
+{"level":"info","message":"Route: /carrito?info=compra Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /logout Method: GET"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
+{"level":"info","message":"Route: /login Method: POST"}
+{"level":"warn","message":"Ruta GET /favicon.ico no implementada"}
